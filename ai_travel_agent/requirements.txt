@@ -2,3 +2,4 @@ streamlit
 phidata
 openai
 google-search-results
+ollama
